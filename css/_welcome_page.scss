@@ -4,7 +4,7 @@ body.welcome-page {
 }
 
 .welcome {
-    background-image: $welcomePageBackground;
+    background-image: url($welcomePageBackground);
     display: flex;
     flex-direction: column;
     font-family: $welcomePageFontFamily;
@@ -102,7 +102,10 @@ body.welcome-page {
             text-align: left;
             min-height: 354px;
             width: 710px;
-            background: #75A7E7;
+            // background: #75A7E7;
+            // background-color: rgb(220,220,220, 0.5);
+            background-color: $currentlistbg;
+            // background-color:$welcomePageTabContainerDisplay;
             display: $welcomePageTabContainerDisplay;
             flex-direction: column;
 
