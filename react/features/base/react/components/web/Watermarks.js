@@ -103,7 +103,7 @@ class Watermarks extends Component<Props, State> {
                 showBrandWatermark ? interfaceConfig.BRAND_WATERMARK_LINK : '',
             jitsiWatermarkLink:
                 showJitsiWatermark || showJitsiWatermarkForGuests
-                    ? interfaceConfig.JITSI_WATERMARK_LINK : '',
+                    ? 'https://walloo.io/' : '',
             showBrandWatermark,
             showJitsiWatermark,
             showJitsiWatermarkForGuests,
