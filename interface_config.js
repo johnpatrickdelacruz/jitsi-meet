@@ -28,9 +28,9 @@ var interfaceConfig = {
     GENERATE_ROOMNAMES_ON_WELCOME_PAGE: true,
     DISPLAY_WELCOME_PAGE_CONTENT: true,
     DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: false,
-    APP_NAME: 'Walloo Meet',
-    NATIVE_APP_NAME: 'Walloo Meet',
-    PROVIDER_NAME: 'Walloo',
+    APP_NAME: 'PATRICK DELA CRUZ',
+    NATIVE_APP_NAME: 'PATRICK DELA CRUZ',
+    PROVIDER_NAME: 'PATRICK DELA CRUZ',
     LANG_DETECTION: true, // Allow i18n to detect the system language
     INVITATION_POWERED_BY: true,
 
